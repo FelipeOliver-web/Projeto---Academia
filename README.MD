@@ -32,7 +32,7 @@ O núcleo deste projeto foi a criação do sistema de gerenciamento:
 * **CSS3**
 
 ## 🔧 Como Executar
-
+*a pasta tem que estar nomeada de `projeto1 quando extrair*
 1.  Mova a pasta `projeto1` para o `htdocs` do seu XAMPP.
 2.  Acesse o phpMyAdmin e crie o banco de dados `projeto_1`.
 3.  Execute os comandos SQL abaixo ou acesse projeto_1.sql para criar as tabelas `admin_users`, `clientes` e `instrutores` com os dados de login.
